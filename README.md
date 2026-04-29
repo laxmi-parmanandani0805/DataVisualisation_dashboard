@@ -50,8 +50,8 @@ pip install pandas numpy matplotlib seaborn
 
 ---
 
-##🚀 Usage
-Run the script from your terminal:
+## 🚀 Usage
+**Run the script from your terminal:**
 ```bash
 python dashboard.py
 ```
